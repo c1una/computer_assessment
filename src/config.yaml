@@ -1,0 +1,3 @@
+OS:
+  WINDOWS: 'Windows'
+  MACOS: 'Darwin'
