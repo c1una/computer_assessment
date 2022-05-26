@@ -1,4 +1,0 @@
-chris
-daemon
-nobody
-root

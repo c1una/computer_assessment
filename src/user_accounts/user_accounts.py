@@ -1,10 +1,9 @@
 import subprocess
-import yaml
 
 
-def read_yaml():
-    with open("src/config.yaml", "r") as f:
-        return yaml.safe_load(f)
+# def read_yaml():
+#     with open("src/config.yaml", "r") as f:
+#         return yaml.safe_load(f)
 
 
 def get_user_accounts(opearting_system):
